@@ -1,7 +1,7 @@
 # drawingpp
 drawing++ class held fall 2022 at MIT
 
-Code examples, ported to p5js: 
+Code examples, ported to p5js (thanks to @LingDong-)
 
 - (drawWithoutClear) https://editor.p5js.org/lingdong/sketches/wMU2s0PAn
 - (drawWithData) https://editor.p5js.org/lingdong/sketches/bdKbSHIGap
