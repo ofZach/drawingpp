@@ -15,4 +15,4 @@ Code examples, ported to p5js (thanks to @LingDong-)
 - (generativeExample 3) https://editor.p5js.org/lingdong/sketches/F3MGJVLlA
 - (generativeExample 4) https://editor.p5js.org/lingdong/sketches/Z8BUrMpXI
 - (generativeExample 5) https://editor.p5js.org/lingdong/sketches/4X7z4znZk
-- (generativeExample 6) (https://editor.p5js.org/lingdong/sketches/Hs0I2UUD_)[https://editor.p5js.org/lingdong/sketches/Hs0I2UUD_]
+- (generativeExample 6) [https://editor.p5js.org/lingdong/sketches/Hs0I2UUD_]
