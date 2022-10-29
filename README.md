@@ -29,3 +29,9 @@ Code examples, ported to p5js (thanks to @LingDong-)
 - (animationReplayWithTime) https://editor.p5js.org/lingdong/sketches/qxFJA370j
 - (animationReplayWithTime2) https://editor.p5js.org/lingdong/sketches/5fEswMl03
 - (animationSpringDrawing) https://editor.p5js.org/lingdong/sketches/R2WikUz_C
+
+## computer vision 
+
+- cvColorTracker: https://editor.p5js.org/lingdong/sketches/u_T090DTo
+- cvContourTracker: https://editor.p5js.org/lingdong/sketches/1MLtgpJrZ
+- cvFaceDraw: https://editor.p5js.org/lingdong/sketches/zUUaJbxow
