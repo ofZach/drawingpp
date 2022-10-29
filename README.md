@@ -32,6 +32,6 @@ Code examples, ported to p5js (thanks to @LingDong-)
 
 ## computer vision 
 
-- cvColorTracker: https://editor.p5js.org/lingdong/sketches/u_T090DTo
-- cvContourTracker: https://editor.p5js.org/lingdong/sketches/1MLtgpJrZ
-- cvFaceDraw: https://editor.p5js.org/lingdong/sketches/zUUaJbxow
+- (cvColorTracker) https://editor.p5js.org/lingdong/sketches/u_T090DTo
+- (cvContourTracker) https://editor.p5js.org/lingdong/sketches/1MLtgpJrZ
+- (cvFaceDraw) https://editor.p5js.org/lingdong/sketches/zUUaJbxow
