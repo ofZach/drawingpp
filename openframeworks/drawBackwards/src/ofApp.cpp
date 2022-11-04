@@ -44,7 +44,7 @@ void ofApp::mouseDragged(int x, int y, int button){
     line.addVertex( pt + -diff);
     
     ofPoint diffToMouse = pt - ofPoint(x,y);
-    
+
     for (int i = 0; i < line.size(); i++){
         line[i] -= diffToMouse;
     }
