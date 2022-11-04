@@ -145,19 +145,22 @@ void ofApp::draw(){
 //        float orientation = atan2f(diff.x, diff.y) * RAD_TO_DEG;
 //
 //        /// calculate velocty
-//        float vel = (next - prev).length()*2;
+//        float vel = (next - prev).length();
+//        cout << vel << endl;
 //
 //        ofSetRectMode(OF_RECTMODE_CENTER);
 //        ofPushMatrix();
 //        ofTranslate(smoothedLine[i].x, smoothedLine[i].y);
 //        ofRotateDeg(orientation, 0, 0, 1);
 //        ofSetRectMode(OF_RECTMODE_CENTER);
-//        img.draw(0, 0, 10 + vel, 10 + vel);
+//        //img.draw(0, 0, 10 + vel * ofMap(vel, 0, vel*2, 0, 10), 10 + vel * ofMap(vel, 0, vel*2, 0, 10));
+//        img.draw(0, 0, ofMap(vel, 0, 40, 10, 130), ofMap(vel, 0, 40, 10, 130));
 //        ofPopMatrix();
 //
 //    }
 //
 //    ofPopStyle();
+
 
 }
 

@@ -95,6 +95,16 @@ void ofApp::draw(){
                 ofEndShape();
                 //ofDrawLine(curr.x, curr.y, next.x, next.y);
                 ofPopStyle();
+                
+                
+                ///
+                /// CONNECT TO CENTER
+//                ofPushStyle();
+//                ofSetColor(255, 255, 255);
+//                ofNoFill();
+//                ofSetLineWidth(2);
+//                ofDrawLine(curr.x, curr.y, body.detections[0][BODY_ROOT].x, body.detections[0][BODY_ROOT].y);
+//                ofPopStyle();
 
 
                 ///
@@ -106,9 +116,10 @@ void ofApp::draw(){
 //                ofDrawCircle(curr.x, curr.y, 40);
 //                ofPopStyle();
 
+                
                 ///
                 /// SLAT DANCER INSPIRED
-                /// calculate normals
+//                /// calculate normals
 //                ofPoint diff = next - prev;
 //                ofPoint normal = diff.getNormalized();
 //                ofPoint topEnd =  curr + normal.getRotated(90, ofPoint(0,0,1)) + 50;
