@@ -35,3 +35,16 @@ Code examples, ported to p5js (thanks to @LingDong-)
 - (cvColorTracker) https://editor.p5js.org/lingdong/sketches/u_T090DTo
 - (cvContourTracker) https://editor.p5js.org/lingdong/sketches/1MLtgpJrZ
 - (cvFaceDraw) https://editor.p5js.org/lingdong/sketches/zUUaJbxow
+
+## body & drawing 
+
+
+- (bodyTrackingMediapipe) https://editor.p5js.org/lingdong/sketches/n_IFS-wm
+- (bodyPolyline) https://editor.p5js.org/lingdong/sketches/jtKDTg7h3
+- (bodyPolylineMultiple) https://editor.p5js.org/lingdong/sketches/VcCbMoXA4
+- (bodyPolylineMultiple2) https://editor.p5js.org/lingdong/sketches/czHjsEyqL
+- (bodyConvexHull) https://editor.p5js.org/lingdong/sketches/cJpCLZGJ3
+- (bodyDrawBackwards) https://editor.p5js.org/lingdong/sketches/Vh6JtwP7f
+- (bodyIsseyMiyake) https://editor.p5js.org/lingdong/sketches/xH6hRQNuB
+- (bodyOrientationVelocity) https://editor.p5js.org/lingdong/sketches/P56TP-ZL9
+
