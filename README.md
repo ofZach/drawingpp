@@ -48,3 +48,9 @@ Code examples, ported to p5js (thanks to @LingDong-)
 - (bodyIsseyMiyake) https://editor.p5js.org/lingdong/sketches/xH6hRQNuB
 - (bodyOrientationVelocity) https://editor.p5js.org/lingdong/sketches/P56TP-ZL9
 
+## recognition
+
+- https://editor.p5js.org/lingdong/sketches/odVWKVw4N
+- https://editor.p5js.org/lingdong/sketches/8cgZj3zx51
+- https://editor.p5js.org/lingdong/sketches/vX3wltyH5
+
